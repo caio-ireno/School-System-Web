@@ -1,3 +1,14 @@
 @import "tailwindcss";
 @import "tailwindcss/utilities";
-@import "tailwindcss/components";
+
+@theme {
+  --color-pink-500: "#fd288d";
+  --color-blue-500: "#9340ff";
+  --color-grey-500: "#796e64";
+  --color-white: "#fff";
+  --color-dark: "#101728";
+  --color-light: "#F6F2E7";
+  --color-button2: "#233767";
+  --color-button3: "#101728";
+  --color-divider: "#C8A287";
+}
